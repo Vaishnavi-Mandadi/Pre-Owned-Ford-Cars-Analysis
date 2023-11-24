@@ -1,7 +1,7 @@
 # **Pre-Owned Ford Cars Price Prediction**
 
 ## **Overview**
-This project presents a linear regression model to predict the price of pre-owned Ford cars. The analysis is based on a dataset from Kaggle encompassing various factors that could influence the resale value of Ford vehicles.
+This project presents a linear regression model to predict the price of pre-owned Ford cars. The analysis is based on a dataset encompassing various factors that could influence the resale value of Ford vehicles.
 
 ## **Dataset**
 The dataset consists of 1000 entries, featuring one dependent variable (Price) and seven independent variables, including year, model, transmission, fuel type, and others. The data range from 2013 to 2020, with detailed categorization into 18 models, 3 transmission types, and 3 fuel types, resulting in 24 dummy variables.
@@ -38,7 +38,8 @@ Identification of significant models and trends beneficial for market stakeholde
 
 ## **References**
 Business Analytics: Data Analysis and Decision Making by S. Christian Albright & Wayne L. Winston.
-Additional resources: Investopedia, NerdWallet, Kaggle
+
+Additional resources: Investopedia
 
 ## **Tools**
 SPSS
